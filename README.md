@@ -1,1 +1,3 @@
-# Learning Test-Drive Development, 3rd ed.
+# tddpython 
+
+Test-Driven Development with Python, 3rd editon.
